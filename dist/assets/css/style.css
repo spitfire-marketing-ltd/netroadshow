@@ -1,0 +1,36 @@
+* { outline: none; font-family: 'Montserrat', sans-serif; }
+body{ color:#414141;}
+.strapline { font-weight: 300; color: #666; margin: 0 5%; text-transform: uppercase;}
+
+
+#navbar {background: #335886; color:#fff;}
+.navbut {
+    margin-right: 5%;
+    color: #fff;
+}
+
+.current-user { color:#fff!important;}
+
+.primary-text { color: #335886!important;}
+.secondary-text{ color: #00aeef!important;}
+.accent-text{ color: #f45d4e!important;}
+.error-text{ color: #f45d4e!important;}
+
+h2,
+h1{ color:#1f395a;}
+
+.headline { font-size:22px}
+
+#footer { background: #f9f9f9;}
+
+.login .v-list-item.theme--light { padding: 0!important;}
+
+.theme-nrs .v-data-table__wrapper {
+    border: 1px solid #ddd;
+}
+.theme-nrs.v-data-table tbody tr td:not(:last-child),
+.theme-nrs.v-data-table thead tr th:not(:last-child) {    
+    border-right: 1px solid #dddd;
+}
+
+.theme-nrs.v-data-table .selectitem .v-input--selection-controls__input { margin-right: 0;}
